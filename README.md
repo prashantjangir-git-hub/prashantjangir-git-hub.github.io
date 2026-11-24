@@ -14,7 +14,9 @@
 </p>
 
 ---
+<img width="1265" height="674" alt="Screenshot 2026-11-24 173051" src="https://github.com/user-attachments/assets/5feb9e9a-de40-420c-9e00-678e92c726f5" />
 
+---
 ## ✦ Overview
 
 A responsive, interactive portfolio website featuring a clean neumorphic-inspired interface, subtle animations and a light/dark theme.
