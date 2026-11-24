@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-label="Prashant Jangir on Linkedin">
+  <title>Prashant Jangir on LinkedIn</title>
+  <defs>
+    <filter id="raised" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b"/>
+      <feOffset in="b" dx="7" dy="7" result="o1"/><feFlood flood-color="#a3b1c6"/><feComposite in2="o1" operator="in" result="s1"/>
+      <feOffset in="b" dx="-7" dy="-7" result="o2"/><feFlood flood-color="#ffffff"/><feComposite in2="o2" operator="in" result="s2"/>
+      <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="raisedSm" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="b"/>
+      <feOffset in="b" dx="3" dy="3" result="o1"/><feFlood flood-color="#a3b1c6"/><feComposite in2="o1" operator="in" result="s1"/>
+      <feOffset in="b" dx="-3" dy="-3" result="o2"/><feFlood flood-color="#ffffff"/><feComposite in2="o2" operator="in" result="s2"/>
+      <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="card" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="b"/>
+      <feOffset in="b" dx="7" dy="7" result="o1"/><feFlood flood-color="#a3b1c6"/><feComposite in2="o1" operator="in" result="s1"/>
+      <feOffset in="b" dx="-7" dy="-7" result="o2"/><feFlood flood-color="#ffffff"/><feComposite in2="o2" operator="in" result="s2"/>
+      <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feDropShadow dx="-4" dy="4" stdDeviation="6" flood-color="rgba(10,102,194,0.5)"/>
+    </filter>
+    <linearGradient id="fill" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f86de"/><stop offset="1" stop-color="#0a66c2"/></linearGradient>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif; }
+      .tilt { transform-origin: 0 0; animation: tilt 5s cubic-bezier(.2,.8,.2,1) infinite; }
+      @keyframes tilt {
+        0%, 16% { transform: rotate(0deg) skew(0deg); }
+        30%, 70% { transform: rotate(-35deg) skew(20deg); }
+        84%, 100% { transform: rotate(0deg) skew(0deg); }
+      }
+      
+      @keyframes l1 {
+        0%, 16% { transform: translate(0,0); opacity: 1; stroke: transparent; }
+        30%, 70% { transform: translate(0px,-0px); opacity: 0.2; stroke: rgba(10,102,194,0.35); }
+        84%, 100% { transform: translate(0,0); opacity: 1; stroke: transparent; }
+      }
+      .l1 { animation: l1 5s cubic-bezier(.2,.8,.2,1) infinite; }
+      @keyframes l2 {
+        0%, 16% { transform: translate(0,0); opacity: 1; stroke: transparent; }
+        30%, 70% { transform: translate(5px,-5px); opacity: 0.4; stroke: rgba(10,102,194,0.35); }
+        84%, 100% { transform: translate(0,0); opacity: 1; stroke: transparent; }
+      }
+      .l2 { animation: l2 5s cubic-bezier(.2,.8,.2,1) infinite; }
+      @keyframes l3 {
+        0%, 16% { transform: translate(0,0); opacity: 1; stroke: transparent; }
+        30%, 70% { transform: translate(10px,-10px); opacity: 0.6; stroke: rgba(10,102,194,0.35); }
+        84%, 100% { transform: translate(0,0); opacity: 1; stroke: transparent; }
+      }
+      .l3 { animation: l3 5s cubic-bezier(.2,.8,.2,1) infinite; }
+      @keyframes l4 {
+        0%, 16% { transform: translate(0,0); opacity: 1; stroke: transparent; }
+        30%, 70% { transform: translate(15px,-15px); opacity: 0.8; stroke: rgba(10,102,194,0.35); }
+        84%, 100% { transform: translate(0,0); opacity: 1; stroke: transparent; }
+      }
+      .l4 { animation: l4 5s cubic-bezier(.2,.8,.2,1) infinite; }
+      @keyframes top {
+        0%, 16% { transform: translate(0,0); }
+        30%, 70% { transform: translate(20px,-20px); }
+        84%, 100% { transform: translate(0,0); }
+      }
+      .top { animation: top 5s cubic-bezier(.2,.8,.2,1) infinite; }
+      @keyframes on { 0%, 16% { opacity: 0; } 30%, 70% { opacity: 1; } 84%, 100% { opacity: 0; } }
+      @keyframes off { 0%, 16% { opacity: 1; } 30%, 70% { opacity: 0; } 84%, 100% { opacity: 1; } }
+      .on { animation: on 5s cubic-bezier(.2,.8,.2,1) infinite; }
+      .off { animation: off 5s cubic-bezier(.2,.8,.2,1) infinite; }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+
+  <!-- surface -->
+  <rect width="420" height="190" rx="28" fill="#e4e9f0"/>
+  <!-- raised card -->
+  <rect x="30" y="30" width="360" height="130" rx="26" fill="#e4e9f0" filter="url(#card)"/>
+
+  <!-- layered tile -->
+  <g transform="translate(112,95)">
+    <g class="tilt">
+      <rect class="l1" x="-30.0" y="-30.0" width="60" height="60" rx="16" fill="#e4e9f0" stroke-width="1" filter="url(#raised)"/>
+      <rect class="l2" x="-30.0" y="-30.0" width="60" height="60" rx="16" fill="#e4e9f0" stroke-width="1"/>
+      <rect class="l3" x="-30.0" y="-30.0" width="60" height="60" rx="16" fill="#e4e9f0" stroke-width="1"/>
+      <rect class="l4" x="-30.0" y="-30.0" width="60" height="60" rx="16" fill="#e4e9f0" stroke-width="1"/>
+      <g class="top">
+        <rect x="-30.0" y="-30.0" width="60" height="60" rx="16" fill="#e4e9f0"/>
+        <g class="on" filter="url(#glow)">
+          <rect x="-30.0" y="-30.0" width="60" height="60" rx="16" fill="url(#fill)"/>
+        </g>
+        <g transform="translate(-12.25,-14) scale(0.05469)">
+          <path class="off" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z" fill="#0a66c2"/>
+          <path class="on" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z" fill="#ffffff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- text -->
+  <text x="176" y="80" font-size="19" font-weight="700" fill="#31344b">Prashant Jangir</text>
+  <text x="176" y="102" font-size="13" fill="#7b8499">Let's connect on LinkedIn</text>
+
+  <!-- action pill -->
+  <g transform="translate(176,114)">
+    <rect width="94" height="30" rx="15" fill="#e4e9f0" filter="url(#raisedSm)"/>
+    <g class="on"><rect width="94" height="30" rx="15" fill="url(#fill)"/></g>
+    <text class="off" x="47" y="20" font-size="13" font-weight="600" text-anchor="middle" fill="#0a66c2">Connect →</text>
+    <text class="on" x="47" y="20" font-size="13" font-weight="600" text-anchor="middle" fill="#ffffff">Connect →</text>
+  </g>
+</svg>
