@@ -2,11 +2,20 @@
   "user": {
     "login": "prashantjangir-git-hub",
     "name": "Prashant Jangir ",
-    "public_repos": 9,
+    "public_repos": 10,
     "followers": 4,
     "following": 8
   },
   "repos": [
+    {
+      "name": "prashantjangir-git-hub.github.io",
+      "fork": false,
+      "language": "HTML",
+      "description": "my profile website",
+      "html_url": "https://github.com/prashantjangir-git-hub/prashantjangir-git-hub.github.io",
+      "stargazers_count": 0,
+      "pushed_at": "2026-11-24T11:26:10Z"
+    },
     {
       "name": "satellite-pass-replay",
       "fork": false,
@@ -14,7 +23,16 @@
       "description": "website that finds out which satellites are hovering over you and public images taken by them",
       "html_url": "https://github.com/prashantjangir-git-hub/satellite-pass-replay",
       "stargazers_count": 0,
-      "pushed_at": "2026-11-24T09:18:49Z"
+      "pushed_at": "2026-11-24T11:09:19Z"
+    },
+    {
+      "name": "prashantjangir-git-hub",
+      "fork": false,
+      "language": "HTML",
+      "description": "Config repo for my GitHub profile",
+      "html_url": "https://github.com/prashantjangir-git-hub/prashantjangir-git-hub",
+      "stargazers_count": 0,
+      "pushed_at": "2026-11-24T09:49:41Z"
     },
     {
       "name": "GandhiGPT",
@@ -24,15 +42,6 @@
       "html_url": "https://github.com/prashantjangir-git-hub/GandhiGPT",
       "stargazers_count": 0,
       "pushed_at": "2026-11-24T08:55:06Z"
-    },
-    {
-      "name": "prashantjangir-git-hub",
-      "fork": false,
-      "language": "HTML",
-      "description": "Config repo for my GitHub profile",
-      "html_url": "https://github.com/prashantjangir-git-hub/prashantjangir-git-hub",
-      "stargazers_count": 0,
-      "pushed_at": "2026-11-24T08:14:58Z"
     },
     {
       "name": "Study-Buddy",
