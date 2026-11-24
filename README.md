@@ -3,7 +3,7 @@
 A B.Tech AI student at IIT Gandhinagar, passionate about AI, programming, and learning new things.
 
 <p align="left">
-  <a href="https://prashantjangir-git-hub.github.io/prashantjangir-git-hub/">
+  <a href="https://prashantjangir-git-hub.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-3fb6d3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio website" />
   </a>
 </p>
