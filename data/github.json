@@ -8,31 +8,31 @@
   },
   "repos": [
     {
-      "name": "prashantjangir-git-hub.github.io",
-      "fork": false,
-      "language": "HTML",
-      "description": "A thoughtfully designed digital space bringing projects, skills and development activity together through a clean, interactive interface.",
-      "html_url": "https://github.com/prashantjangir-git-hub/prashantjangir-git-hub.github.io",
-      "stargazers_count": 0,
-      "pushed_at": "2026-11-24T22:26:52Z"
-    },
-    {
-      "name": "Paintstroke_AI",
-      "fork": false,
-      "language": "JavaScript",
-      "description": "Neural Network That Learns to Paint Images Using Brush Strokes.",
-      "html_url": "https://github.com/prashantjangir-git-hub/Paintstroke_AI",
-      "stargazers_count": 0,
-      "pushed_at": "2026-11-24T17:40:15Z"
-    },
-    {
       "name": "prashantjangir-git-hub",
       "fork": false,
       "language": null,
       "description": "Config repo for my GitHub profile",
       "html_url": "https://github.com/prashantjangir-git-hub/prashantjangir-git-hub",
       "stargazers_count": 0,
-      "pushed_at": "2026-11-24T11:56:31Z"
+      "pushed_at": "2026-11-25T17:07:26Z"
+    },
+    {
+      "name": "Paintstroke_AI",
+      "fork": false,
+      "language": "JavaScript",
+      "description": "Transform photographs into paintings, one brushstroke at a time. An interactive procedural painting engine built with React and HTML Canvas.",
+      "html_url": "https://github.com/prashantjangir-git-hub/Paintstroke_AI",
+      "stargazers_count": 0,
+      "pushed_at": "2026-11-25T15:45:35Z"
+    },
+    {
+      "name": "prashantjangir-git-hub.github.io",
+      "fork": false,
+      "language": "HTML",
+      "description": "A thoughtfully designed digital space bringing projects, skills and development activity together through a clean, interactive interface.",
+      "html_url": "https://github.com/prashantjangir-git-hub/prashantjangir-git-hub.github.io",
+      "stargazers_count": 0,
+      "pushed_at": "2026-11-25T08:34:57Z"
     },
     {
       "name": "satellite-pass-replay",
