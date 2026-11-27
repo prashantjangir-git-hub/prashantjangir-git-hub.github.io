@@ -2,11 +2,20 @@
   "user": {
     "login": "prashantjangir-git-hub",
     "name": "Prashant Jangir ",
-    "public_repos": 11,
+    "public_repos": 12,
     "followers": 4,
     "following": 8
   },
   "repos": [
+    {
+      "name": "Swiggy-Campus-Batch",
+      "fork": false,
+      "language": "HTML",
+      "description": "Campus Batch: a Swiggy concept where students on one campus join a scheduled order batch, pay individually and split one delivery trip to a shared pickup point. Interactive prototype, 50-student survey evidence and slide deck.",
+      "html_url": "https://github.com/prashantjangir-git-hub/Swiggy-Campus-Batch",
+      "stargazers_count": 0,
+      "pushed_at": "2026-11-27T10:05:57Z"
+    },
     {
       "name": "prashantjangir-git-hub.github.io",
       "fork": false,
@@ -14,7 +23,7 @@
       "description": "A thoughtfully designed digital space bringing projects, skills and development activity together through a clean, interactive interface.",
       "html_url": "https://github.com/prashantjangir-git-hub/prashantjangir-git-hub.github.io",
       "stargazers_count": 0,
-      "pushed_at": "2026-11-26T21:32:12Z"
+      "pushed_at": "2026-11-27T08:33:57Z"
     },
     {
       "name": "prashantjangir-git-hub",
