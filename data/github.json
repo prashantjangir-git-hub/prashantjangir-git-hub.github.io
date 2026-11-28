@@ -8,6 +8,15 @@
   },
   "repos": [
     {
+      "name": "prashantjangir-git-hub.github.io",
+      "fork": false,
+      "language": "HTML",
+      "description": "A thoughtfully designed digital space bringing projects, skills and development activity together through a clean, interactive interface.",
+      "html_url": "https://github.com/prashantjangir-git-hub/prashantjangir-git-hub.github.io",
+      "stargazers_count": 0,
+      "pushed_at": "2026-11-27T21:18:05Z"
+    },
+    {
       "name": "Swiggy-Campus-Batch",
       "fork": false,
       "language": "HTML",
@@ -15,15 +24,6 @@
       "html_url": "https://github.com/prashantjangir-git-hub/Swiggy-Campus-Batch",
       "stargazers_count": 0,
       "pushed_at": "2026-11-27T10:05:57Z"
-    },
-    {
-      "name": "prashantjangir-git-hub.github.io",
-      "fork": false,
-      "language": "HTML",
-      "description": "A thoughtfully designed digital space bringing projects, skills and development activity together through a clean, interactive interface.",
-      "html_url": "https://github.com/prashantjangir-git-hub/prashantjangir-git-hub.github.io",
-      "stargazers_count": 0,
-      "pushed_at": "2026-11-27T08:33:57Z"
     },
     {
       "name": "prashantjangir-git-hub",
